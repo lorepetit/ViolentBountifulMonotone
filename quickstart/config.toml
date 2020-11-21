@@ -1,0 +1,4 @@
+baseURL = "http://violentbountifulmonotone.lpetit1.repl.co/"
+languageCode = "fr-fr"
+title = "Mon site HUGO"
+theme = "hello-friend"

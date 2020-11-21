@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Mon site HUGO</title>
+        <link>http://violentbountifulmonotone.lpetit1.repl.co/posts/</link>
+        <description>Recent content in Posts on Mon site HUGO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sat, 21 Nov 2020 01:16:40 +0000</lastBuildDate>
+        <atom:link href="http://violentbountifulmonotone.lpetit1.repl.co/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>http://violentbountifulmonotone.lpetit1.repl.co/posts/my-first-post/</link>
+            <pubDate>Sat, 21 Nov 2020 01:16:40 +0000</pubDate>
+            
+            <guid>http://violentbountifulmonotone.lpetit1.repl.co/posts/my-first-post/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

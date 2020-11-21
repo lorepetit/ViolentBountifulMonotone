@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/</loc>
+    <lastmod>2020-11-21T01:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/posts/my-first-post/</loc>
+    <lastmod>2020-11-21T01:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/posts/</loc>
+    <lastmod>2020-11-21T01:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/tags/</loc>
+    <lastmod>2020-11-21T01:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/tags/untagged/</loc>
+    <lastmod>2020-11-21T01:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://violentbountifulmonotone.lpetit1.repl.co/categories/</loc>
+  </url>
+  
+</urlset>
